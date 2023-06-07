@@ -1,4 +1,4 @@
-let myAge = 'INSERT AGE HERE'; 
+let myAge = INSERT AGE HERE; 
 // This code sets the variable myAge to 13 //
 let earlyYears = 2;
 // This code sets the variable earlyYears to 2 //
