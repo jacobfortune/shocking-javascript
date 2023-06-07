@@ -1,4 +1,4 @@
-let myAge = 'INSERT AGE HERE'
+let myAge = INSERT AGE HERE
 myAge -= 2
 let firstYear = 1
 let secondYear = 1
