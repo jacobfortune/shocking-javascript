@@ -10,7 +10,7 @@ laterYears *= 4;
 // This multiplies the laterYears variable by 4 // 
 let myAgeInDogYears = laterYears + earlyYears;
 // This code creates a new variable, myAgeInDogYears and makes it value equal to the addition of laterYears and earlyYears // 
-myName = 'Pyrobyte'.toLowerCase();
+const myName = 'Pyrobyte'.toLowerCase();
 // This assigns the value of the variable to the string in lower case; 'Pyrobyte'. // console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years`)
 
 // Fill in 'insert age here' with your age and see how old you are on dog years! Do this on a proper site that releases a javascript output. //
