@@ -6,7 +6,7 @@ if (userName) {
 } else {
   console.log('Hello!')
 }
-const userQuestion = 'INSERT QUESTION HERE' + '?'.toLowerCase();
+const userQuestion = 'INSERT QUESTION HERE'.toLowerCase() + '?'.toLowerCase();
 console.log(`You asked ${userQuestion}, ${userName}`)
 const randomNumber = Math.floor(Math.random() * 8);
 const eightBall = '9'
