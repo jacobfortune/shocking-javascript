@@ -1,4 +1,4 @@
-const kelvin = ‘INSERT NUMBER HERE’;
+const kelvin = INSERT NUMBER HERE;
 // This code assigns the number 293 to the constant variable kelvin. //
 const celsius = kelvin - 273;
 // This code has converted the celsius to kelvin //
